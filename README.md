@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 This file will be populated soon!
+- ✨ I just started my PhD in Cancer Sciences journey at the University of Manchester / CRUK-MI.
+- 🔭 I’m currently working on HPV-associated Penile cancer and precancerous lesions.
+
+
 <!--
 **difersanchez/difersanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
